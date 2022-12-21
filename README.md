@@ -1,4 +1,4 @@
-# Adversarial-U-Net-Autoencoder
+# DCGAN-with-U-Net-Autoencoder
 This project aims to restore damaged images using a GAN model with a U-Net with skip connection autoencoder as a generator and was used for my Bachelor's Degree thesis. For this project, I created my own database with artificially damaged images and reconstructed them using the DCGAN
 <br>
 <br>**Generator Description:** Due to the nature of the proposed subject, implementing a classical generator that starts from a noise vector is not possible. An auto-encoder could receive as input the damaged images, transform them into the latent space and be trained to restore a similar image to the ground truth. The concatenated layers have the effect of sending information directly at the decoder network, hence reducing the amount passed through bottleneck layer. The strided convolution used in this study help reduce the number of the parameters, but are more efficient for this case than a classical U-Net with MaxPooling layers. Thus, this type of U-Net will represent the base of the generator.
