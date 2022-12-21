@@ -11,6 +11,11 @@ This project aims to restore damaged images using a GAN model with a U-Net with 
 
 <img class=mobile-image src="![result_1](https://user-images.githubusercontent.com/106117736/208973526-84e97c85-c615-4757-8a5c-c03e5a95cf6c.png)" /> | <img class=mobile-image src="result_2 (1)](https://user-images.githubusercontent.com/106117736/208973531-c9acbb97-ad33-4c91-8ac0-347af21d689c.png)" />
 
+<p float="left">
+  <img src="![result_1](https://user-images.githubusercontent.com/106117736/208973526-84e97c85-c615-4757-8a5c-c03e5a95cf6c.png)" width="100" />
+  <img src="result_2 (1)](https://user-images.githubusercontent.com/106117736/208973531-c9acbb97-ad33-4c91-8ac0-347af21d689c.png)" width="100" /> 
+</p>
+
 
 
 
