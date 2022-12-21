@@ -17,7 +17,7 @@ This project aims to restore damaged images using a GAN model with a U-Net with 
     display: inline-block;
   }
   img.mobile-image {
-    width: 49%;
+    width: 30%;
     display: inline-block;
   }
 </style>
