@@ -8,13 +8,8 @@ This project aims to restore damaged images using a GAN model with a U-Net with 
 <br><br>**Discriminator Flowchart:**
 <br>![dicriminator flowchart](https://user-images.githubusercontent.com/106117736/208969932-582c24c6-10fe-4767-ab02-e64927404c77.png)
 <br><br>Although the database I created was not ideal, here are some of the reconstructed results:
-
-<img class=mobile-image src="![result_1](https://user-images.githubusercontent.com/106117736/208973526-84e97c85-c615-4757-8a5c-c03e5a95cf6c.png)" /> | <img class=mobile-image src="result_2 (1)](https://user-images.githubusercontent.com/106117736/208973531-c9acbb97-ad33-4c91-8ac0-347af21d689c.png)" />
-
-<p float="left">
-  <img src="![result_1](https://user-images.githubusercontent.com/106117736/208973526-84e97c85-c615-4757-8a5c-c03e5a95cf6c.png)" width="20" />
   <img src="result_2 (1)](https://user-images.githubusercontent.com/106117736/208973531-c9acbb97-ad33-4c91-8ac0-347af21d689c.png)" width="20" /> 
-</p>
+
 
 
 
